@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Backend development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Unity**
 
 - 🤝 I’m looking for help with **Database management**
 
