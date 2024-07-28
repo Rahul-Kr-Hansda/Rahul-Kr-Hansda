@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Hansda</h1>
 <h3 align="center">An aspiring developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Rahul-Kr-Hansda/Rahul-Kr-Hansda/blob/main/pp2.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-kr-hansda&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-kr-hansda" /> </p>
 
