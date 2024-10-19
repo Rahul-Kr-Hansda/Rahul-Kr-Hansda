@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Database management**
 
-- 💬 Ask me about **python, C, C++, python
+- 💬 Ask me about **python, C, C++, java
 
 - 📫 How to reach me **rahulkumarhansda82@gmail.com**
 
