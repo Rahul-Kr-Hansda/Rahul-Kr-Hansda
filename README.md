@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-kr-hansda&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-kr-hansda" /> </p>
 
-- 🔭 I’m currently working on **Backend development**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Blender**
 
-- 🤝 I’m looking for help with **Database management**
+- 🤝 I’m looking for help with **Databases**
 
 - 💬 Ask me about **python, C, C++, java
 
